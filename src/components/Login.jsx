@@ -76,7 +76,7 @@ const LoginPage = () => {
     <div className="flex items-center justify-center min-h-screen bg-[url('/uthm-bg3.jpg')] bg-cover bg-center">
       <div className="bg-white px-8 pt-4 pb-8 rounded-lg shadow-lg max-w-sm w-full mt-20">
         <div className="flex justify-center mt-[-30px]">
-          <img src="/pku-logo.png" alt="Pku Logo" className="h-40 w-auto" />
+          <img src="./public/pku-logo.png" alt="Pku Logo" className="h-40 w-auto" />
         </div>
         <h2 className="text-2xl font-poppins mt-[-20px] mb-2 text-center">Login</h2>
 
