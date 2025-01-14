@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://qalifirman.github.io/<repository-name>",
+  "homepage": "https://qalifirman.github.io/dentist-prototype",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
